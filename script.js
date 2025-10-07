@@ -96,7 +96,6 @@ createBtn.addEventListener('click', () => {
   inputBox.setAttribute('contenteditable', 'true');
 
   inputBox.style.backgroundColor = getRandomColor();
-  inputBox.style.color = 'white';
 
   img.src = 'images/delete.png';
 
