@@ -68,3 +68,7 @@ body {
           cursor: pointer;
      }
 }
+
+.notes-container {
+     margin-right: 28px;
+}
